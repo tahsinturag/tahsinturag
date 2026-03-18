@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/tahsin75"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
   <a href="https://github.com/tahsinturag"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leetcode.com/Tahsin75"><img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
-  <a href="https://tahsinturag.github.io/tahsin/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio"></a>
+  <a href="https://tahsinturag.github.io/Tahsin_Islam_Molla/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio"></a>
 </p>
 
 ## 👨‍💻 About Me
